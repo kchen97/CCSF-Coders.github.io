@@ -1,4 +1,15 @@
-body {
+.codersMainHeader {
+  text-align: center;
+}
+
+.officerMargins {
+  margin-left: 35px;
+}
+
+.bottomMargin {
+  margin-bottom: 35px;
+}
+/* body {
   margin: 0;
 }
 
@@ -9,7 +20,7 @@ body {
 body, div, a {
   display: flex;
   flex-direction: column;
-  box-sizing: border-box; /* major freaking key right here.  This should be the default */
+  box-sizing: border-box;
   font-family: sans-serif;
 }
 
@@ -17,4 +28,4 @@ h1, h2, h3, h4, h5, h6, p, input, span, a {
   margin: 0.2rem;
   font-weight: 300;
   color: black;
-}
+} */
